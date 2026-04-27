@@ -36,5 +36,5 @@ Designed a low-noise picoampere-range current detector in SkyWater 130-nm CMOS t
 SkyWater 130nm CMOS
 
 ## Tools
-
-Cadence Virtuoso | Analog IC Design | Custom Layout
+Open source tools
+Xscheme | Magic | Ngspice | Klayout
