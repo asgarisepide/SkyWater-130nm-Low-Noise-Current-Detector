@@ -36,5 +36,5 @@ Designed a low-noise picoampere-range current detector in SkyWater 130-nm CMOS t
 SkyWater 130nm CMOS
 
 ## Tools
-Open source tools
+Open source tools: 
 Xscheme | Magic | Ngspice | Klayout
