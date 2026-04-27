@@ -4,11 +4,11 @@ Custom integrated circuit developed for the IEEE SSCS Supported Chipathon Projec
 
 ## SkyWater 130nm Tapeout Completed
 
-### Full Chip Layout
-![Full Chip](Low_Noise_Current_Detector.png)
-
 ### Core Detector Layout
-![Detector Core](DROIC_V.png)
+![Full Chip](DROIC.png)
+
+### Full Chip Layout
+![Detector Core](DROIC_FullChip.png)
 
 ## Project Overview
 
