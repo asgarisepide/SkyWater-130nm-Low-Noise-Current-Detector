@@ -2,6 +2,9 @@
 
 Custom integrated circuit developed for the IEEE SSCS Supported Chipathon Project.
 
+### Core Detector Layout
+![Full Chip](System_Level.png)
+
 ## SkyWater 130nm Tapeout Completed
 
 ### Core Detector Layout
